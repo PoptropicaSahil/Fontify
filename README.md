@@ -1,5 +1,7 @@
 # Fontify
 
+> 🔗 Try it yourself: https://fontify.figma.site/
+
 You know that feeling when you know Helvetica isn't right for this project, but you also can't bear to scroll through 1000+ fonts in your system? 😵‍💫
 
 Yeah, we felt that dread too.
@@ -18,7 +20,6 @@ This whole thing was built over 2 days for the hackathon.  While we're super pro
 We already have a ton in mind for improvements - better performance, filtering options, that font recommender system we originally planned. 🚀
 But honestly? It's still fun to play with.
 
-🔗 Try it yourself: https://lnkd.in/g6-xV4_K
 Welcome to the font family! 🎨
 
 #figmamake #fontdesign #designtools #hackathon #figmamakeathon
